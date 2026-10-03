@@ -1,0 +1,257 @@
+[
+  {
+    "title": "Phishing",
+    "category": "Phishing",
+    "what": "Defensive learning module about Phishing.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "Password Security",
+    "category": "Password Security",
+    "what": "Defensive learning module about Password Security.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "MFA",
+    "category": "MFA",
+    "what": "Defensive learning module about MFA.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "Social Engineering",
+    "category": "Social Engineering",
+    "what": "Defensive learning module about Social Engineering.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "Safe Browsing",
+    "category": "Safe Browsing",
+    "what": "Defensive learning module about Safe Browsing.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "Secure Wi-Fi",
+    "category": "Secure Wi-Fi",
+    "what": "Defensive learning module about Secure Wi-Fi.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "Software Updates",
+    "category": "Software Updates",
+    "what": "Defensive learning module about Software Updates.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "Ransomware",
+    "category": "Ransomware",
+    "what": "Defensive learning module about Ransomware.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "USB / Removable Media Safety",
+    "category": "USB / Removable Media Safety",
+    "what": "Defensive learning module about USB / Removable Media Safety.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "Data Privacy",
+    "category": "Data Privacy",
+    "what": "Defensive learning module about Data Privacy.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "Mobile Security",
+    "category": "Mobile Security",
+    "what": "Defensive learning module about Mobile Security.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "Remote Work Security",
+    "category": "Remote Work Security",
+    "what": "Defensive learning module about Remote Work Security.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "Cloud Account Security",
+    "category": "Cloud Account Security",
+    "what": "Defensive learning module about Cloud Account Security.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "Incident Reporting",
+    "category": "Incident Reporting",
+    "what": "Defensive learning module about Incident Reporting.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  },
+  {
+    "title": "AI-Enabled Scam Awareness",
+    "category": "AI-Enabled Scam Awareness",
+    "what": "Defensive learning module about AI-Enabled Scam Awareness.",
+    "why": "Build safer security habits.",
+    "warning_signs": [
+      "Unexpected requests",
+      "Urgency",
+      "Unusual access"
+    ],
+    "safe_practices": [
+      "Pause and verify",
+      "Use approved controls",
+      "Report suspicious activity"
+    ],
+    "if_something_happens": "Use the approved reporting/recovery process."
+  }
+]

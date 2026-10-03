@@ -1,0 +1,431 @@
+[
+  {
+    "id": 1,
+    "category": "Phishing",
+    "question": "An unexpected message asks you to urgently verify your password. What should you do?",
+    "options": [
+      "Click",
+      "Reply with password",
+      "Verify through an official trusted channel",
+      "Forward credentials"
+    ],
+    "answer": 2,
+    "explanation": "Independent verification reduces risk."
+  },
+  {
+    "id": 2,
+    "category": "Passwords",
+    "question": "Which is a good password practice?",
+    "options": [
+      "Reuse one password",
+      "Use unique long passwords",
+      "Share passwords",
+      "Store in plain text"
+    ],
+    "answer": 1,
+    "explanation": "Unique passwords reduce credential-reuse impact."
+  },
+  {
+    "id": 3,
+    "category": "MFA",
+    "question": "What does MFA provide?",
+    "options": [
+      "Another authentication factor",
+      "Another username",
+      "A public profile",
+      "A shared password"
+    ],
+    "answer": 0,
+    "explanation": "MFA adds an authentication factor."
+  },
+  {
+    "id": 4,
+    "category": "Social Engineering",
+    "question": "Which is a warning sign?",
+    "options": [
+      "Routine documentation",
+      "Unexpected urgency and authority pressure",
+      "Scheduled maintenance",
+      "Known procedure"
+    ],
+    "answer": 1,
+    "explanation": "Pressure and impersonation are common warning signs."
+  },
+  {
+    "id": 5,
+    "category": "Safe Browsing",
+    "question": "What should you do with an unexpected download?",
+    "options": [
+      "Open it",
+      "Verify its source first",
+      "Disable security",
+      "Upload it"
+    ],
+    "answer": 1,
+    "explanation": "Verify unexpected downloads before opening."
+  },
+  {
+    "id": 6,
+    "category": "Ransomware",
+    "question": "Which control improves resilience?",
+    "options": [
+      "Tested backups",
+      "Password sharing",
+      "Disabling updates",
+      "Removing monitoring"
+    ],
+    "answer": 0,
+    "explanation": "Tested backups improve recovery."
+  },
+  {
+    "id": 7,
+    "category": "Privacy",
+    "question": "What is data minimization?",
+    "options": [
+      "Collect only necessary data",
+      "Publish all data",
+      "Keep forever",
+      "Share passwords"
+    ],
+    "answer": 0,
+    "explanation": "Minimize unnecessary collection."
+  },
+  {
+    "id": 8,
+    "category": "Wi-Fi",
+    "question": "What is safer on unknown Wi-Fi?",
+    "options": [
+      "Use approved secure access",
+      "Disable security",
+      "Share credentials",
+      "Install unknown software"
+    ],
+    "answer": 0,
+    "explanation": "Use trusted networks and approved controls."
+  },
+  {
+    "id": 9,
+    "category": "Mobile Security",
+    "question": "Which is a useful practice?",
+    "options": [
+      "Keep OS updated",
+      "Install unknown apps",
+      "Disable screen lock",
+      "Share unlock codes"
+    ],
+    "answer": 0,
+    "explanation": "Updates reduce exposure to known issues."
+  },
+  {
+    "id": 10,
+    "category": "Incident Reporting",
+    "question": "If you suspect an incident, what should you do?",
+    "options": [
+      "Use approved reporting channel",
+      "Delete evidence",
+      "Post publicly",
+      "Ignore it"
+    ],
+    "answer": 0,
+    "explanation": "Prompt reporting supports investigation."
+  },
+  {
+    "id": 11,
+    "category": "Phishing",
+    "question": "An unexpected message asks you to urgently verify your password. What should you do?",
+    "options": [
+      "Click",
+      "Reply with password",
+      "Verify through an official trusted channel",
+      "Forward credentials"
+    ],
+    "answer": 2,
+    "explanation": "Independent verification reduces risk."
+  },
+  {
+    "id": 12,
+    "category": "Passwords",
+    "question": "Which is a good password practice?",
+    "options": [
+      "Reuse one password",
+      "Use unique long passwords",
+      "Share passwords",
+      "Store in plain text"
+    ],
+    "answer": 1,
+    "explanation": "Unique passwords reduce credential-reuse impact."
+  },
+  {
+    "id": 13,
+    "category": "MFA",
+    "question": "What does MFA provide?",
+    "options": [
+      "Another authentication factor",
+      "Another username",
+      "A public profile",
+      "A shared password"
+    ],
+    "answer": 0,
+    "explanation": "MFA adds an authentication factor."
+  },
+  {
+    "id": 14,
+    "category": "Social Engineering",
+    "question": "Which is a warning sign?",
+    "options": [
+      "Routine documentation",
+      "Unexpected urgency and authority pressure",
+      "Scheduled maintenance",
+      "Known procedure"
+    ],
+    "answer": 1,
+    "explanation": "Pressure and impersonation are common warning signs."
+  },
+  {
+    "id": 15,
+    "category": "Safe Browsing",
+    "question": "What should you do with an unexpected download?",
+    "options": [
+      "Open it",
+      "Verify its source first",
+      "Disable security",
+      "Upload it"
+    ],
+    "answer": 1,
+    "explanation": "Verify unexpected downloads before opening."
+  },
+  {
+    "id": 16,
+    "category": "Ransomware",
+    "question": "Which control improves resilience?",
+    "options": [
+      "Tested backups",
+      "Password sharing",
+      "Disabling updates",
+      "Removing monitoring"
+    ],
+    "answer": 0,
+    "explanation": "Tested backups improve recovery."
+  },
+  {
+    "id": 17,
+    "category": "Privacy",
+    "question": "What is data minimization?",
+    "options": [
+      "Collect only necessary data",
+      "Publish all data",
+      "Keep forever",
+      "Share passwords"
+    ],
+    "answer": 0,
+    "explanation": "Minimize unnecessary collection."
+  },
+  {
+    "id": 18,
+    "category": "Wi-Fi",
+    "question": "What is safer on unknown Wi-Fi?",
+    "options": [
+      "Use approved secure access",
+      "Disable security",
+      "Share credentials",
+      "Install unknown software"
+    ],
+    "answer": 0,
+    "explanation": "Use trusted networks and approved controls."
+  },
+  {
+    "id": 19,
+    "category": "Mobile Security",
+    "question": "Which is a useful practice?",
+    "options": [
+      "Keep OS updated",
+      "Install unknown apps",
+      "Disable screen lock",
+      "Share unlock codes"
+    ],
+    "answer": 0,
+    "explanation": "Updates reduce exposure to known issues."
+  },
+  {
+    "id": 20,
+    "category": "Incident Reporting",
+    "question": "If you suspect an incident, what should you do?",
+    "options": [
+      "Use approved reporting channel",
+      "Delete evidence",
+      "Post publicly",
+      "Ignore it"
+    ],
+    "answer": 0,
+    "explanation": "Prompt reporting supports investigation."
+  },
+  {
+    "id": 21,
+    "category": "Phishing",
+    "question": "An unexpected message asks you to urgently verify your password. What should you do?",
+    "options": [
+      "Click",
+      "Reply with password",
+      "Verify through an official trusted channel",
+      "Forward credentials"
+    ],
+    "answer": 2,
+    "explanation": "Independent verification reduces risk."
+  },
+  {
+    "id": 22,
+    "category": "Passwords",
+    "question": "Which is a good password practice?",
+    "options": [
+      "Reuse one password",
+      "Use unique long passwords",
+      "Share passwords",
+      "Store in plain text"
+    ],
+    "answer": 1,
+    "explanation": "Unique passwords reduce credential-reuse impact."
+  },
+  {
+    "id": 23,
+    "category": "MFA",
+    "question": "What does MFA provide?",
+    "options": [
+      "Another authentication factor",
+      "Another username",
+      "A public profile",
+      "A shared password"
+    ],
+    "answer": 0,
+    "explanation": "MFA adds an authentication factor."
+  },
+  {
+    "id": 24,
+    "category": "Social Engineering",
+    "question": "Which is a warning sign?",
+    "options": [
+      "Routine documentation",
+      "Unexpected urgency and authority pressure",
+      "Scheduled maintenance",
+      "Known procedure"
+    ],
+    "answer": 1,
+    "explanation": "Pressure and impersonation are common warning signs."
+  },
+  {
+    "id": 25,
+    "category": "Safe Browsing",
+    "question": "What should you do with an unexpected download?",
+    "options": [
+      "Open it",
+      "Verify its source first",
+      "Disable security",
+      "Upload it"
+    ],
+    "answer": 1,
+    "explanation": "Verify unexpected downloads before opening."
+  },
+  {
+    "id": 26,
+    "category": "Ransomware",
+    "question": "Which control improves resilience?",
+    "options": [
+      "Tested backups",
+      "Password sharing",
+      "Disabling updates",
+      "Removing monitoring"
+    ],
+    "answer": 0,
+    "explanation": "Tested backups improve recovery."
+  },
+  {
+    "id": 27,
+    "category": "Privacy",
+    "question": "What is data minimization?",
+    "options": [
+      "Collect only necessary data",
+      "Publish all data",
+      "Keep forever",
+      "Share passwords"
+    ],
+    "answer": 0,
+    "explanation": "Minimize unnecessary collection."
+  },
+  {
+    "id": 28,
+    "category": "Wi-Fi",
+    "question": "What is safer on unknown Wi-Fi?",
+    "options": [
+      "Use approved secure access",
+      "Disable security",
+      "Share credentials",
+      "Install unknown software"
+    ],
+    "answer": 0,
+    "explanation": "Use trusted networks and approved controls."
+  },
+  {
+    "id": 29,
+    "category": "Mobile Security",
+    "question": "Which is a useful practice?",
+    "options": [
+      "Keep OS updated",
+      "Install unknown apps",
+      "Disable screen lock",
+      "Share unlock codes"
+    ],
+    "answer": 0,
+    "explanation": "Updates reduce exposure to known issues."
+  },
+  {
+    "id": 30,
+    "category": "Incident Reporting",
+    "question": "If you suspect an incident, what should you do?",
+    "options": [
+      "Use approved reporting channel",
+      "Delete evidence",
+      "Post publicly",
+      "Ignore it"
+    ],
+    "answer": 0,
+    "explanation": "Prompt reporting supports investigation."
+  },
+  {
+    "id": 31,
+    "category": "Phishing",
+    "question": "An unexpected message asks you to urgently verify your password. What should you do?",
+    "options": [
+      "Click",
+      "Reply with password",
+      "Verify through an official trusted channel",
+      "Forward credentials"
+    ],
+    "answer": 2,
+    "explanation": "Independent verification reduces risk."
+  },
+  {
+    "id": 32,
+    "category": "Passwords",
+    "question": "Which is a good password practice?",
+    "options": [
+      "Reuse one password",
+      "Use unique long passwords",
+      "Share passwords",
+      "Store in plain text"
+    ],
+    "answer": 1,
+    "explanation": "Unique passwords reduce credential-reuse impact."
+  },
+  {
+    "id": 33,
+    "category": "MFA",
+    "question": "What does MFA provide?",
+    "options": [
+      "Another authentication factor",
+      "Another username",
+      "A public profile",
+      "A shared password"
+    ],
+    "answer": 0,
+    "explanation": "MFA adds an authentication factor."
+  }
+]
